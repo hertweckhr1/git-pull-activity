@@ -25,15 +25,9 @@ def robot_noise
   puts "beep boop"
 end
 
-<<<<<<< HEAD
 def train_noise
-#   puts "choo choo"
-# end
-=======
-# def train_noise
   puts "choo choo"
 end
->>>>>>> c4b78aabc6889cd478a4287c2420bc51768e6095
 
 # Task 4: Merge Conflict
 # Both partners should modify the same line in different ways.
