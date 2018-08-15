@@ -25,7 +25,7 @@ def robot_noise
   puts "beep boop"
 end
 
-# def train_noise
+def train_noise
 #   puts "choo choo"
 # end
 
